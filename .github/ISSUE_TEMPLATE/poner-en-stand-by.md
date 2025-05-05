@@ -3,7 +3,7 @@ name: Poner en stand-by
 about: Describe this Para cuando las personas que ya forman parte necesitan tomar
   un descanso/"break"issue template's purpose here.
 title: Poner a XXXX en stand-by
-labels: ''
+labels: admin-task
 assignees: ''
 
 ---
