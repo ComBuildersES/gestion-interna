@@ -36,9 +36,10 @@ Buenas XXXX!,
 
 Para terminar el proceso de alta te queríamos pedir que:
 
-1. Le eches un vistazo a los [proyectos de Community Builders](https://github.com/topics/community-builders).
-2. Te des de alta en nuestro servidor de Discord si quieres participar en los encuentros mensuales: XXXXXXX (caduca en 7 días)
-3. Aceptes la invitación que te debe haber llegado a la organización de GitHub
+
+1. Te des de alta en nuestro servidor de Discord si quieres participar en los encuentros mensuales: XXXXXXX (caduca en 7 días)
+1. Vayas a GitHub > [Your organizations](https://github.com/settings/organizations), y aceptes la invitación a [ComBuildersES](https://github.com/ComBuildersES).
+1. Revises [esta guía](https://github.com/ComBuildersES/gestion-interna/issues/18) donde explicamos todo lo que debes saber para participar en la comunidad (*in progress*) 
 
 A [Álvaro/Raúl] y a mí nos encantaría tener una llamada contigo para charlar y conocernos. ¿Te parece?.
 
