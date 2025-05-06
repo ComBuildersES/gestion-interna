@@ -42,7 +42,7 @@ Para terminar el proceso de alta te queríamos pedir que:
 Y por último aprovechar invitarte a: 
 * Compartir más en detalle tu experiencia. Si te animas, [indícanoslo aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md). Más info en: [Charlamos con Community Builders](https://github.com/ComBuildersES/charlamos-con-community-builders/tree/main?tab=readme-ov-file#charlamos-con-community-builders)
 * [instrucciones relevantes en función de los intereses indicados en el formulario. Dar indicaciones concretas de cómo participar en las iniciativas, por ej: participar en hilos relacionados con sus intereses, etc]
-* Y en cualquier caso, a [Álvaro/Raúl] y a mí nos encantaría tener una llamada contigo para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas. ¿Te parece?.
+* Tener una llamada con [Álvaro/Raúl] y conmigo, para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas, ¿te parece?.
 
 Para más detalle puedes revises [esta guía](https://github.com/ComBuildersES/gestion-interna/issues/18) donde explicamos todo lo que debes saber para participar en la comunidad (*in progress*).
 
