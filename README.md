@@ -6,7 +6,8 @@ En este repositorio estamos usando [los issues](https://github.com/ComBuildersES
 * Las dinámicas
 * Procedimientos
 * Otras gestiones internas (altas y bajas)
-* Y se habla sobre otras acciones transversales, etc.
+* Acciones transversales
+* etc
 
 # Contribuciones
 
