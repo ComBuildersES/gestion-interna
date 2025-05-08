@@ -17,7 +17,7 @@ assignees: ''
 * [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://docs.google.com/spreadsheets/d/18Rf0-3sREFosw__tQYaUmtzJNL3M-PLsm-HIqENf2Yw/edit?gid=0#gid=0)
 * [ ] Enviar un correo de bienvenida  (ver en la descripción de la tarjeta)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
-* [ ] Añadir a [asegurar onboarding en Discord](https://trello.com/c/tmHnscRV/46-asegurar-el-onboarding-a-discord)
+* [ ] Asegurar onboarding en Discord
 
 ----
 
