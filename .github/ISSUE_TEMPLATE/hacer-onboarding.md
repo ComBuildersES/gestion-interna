@@ -14,7 +14,7 @@ assignees: ''
 * [ ] Añadir a [la PPT con el listado de personas de la comunidad](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit)
 * [ ] Enviar la [invitación a la organización de GitHub](https://github.com/orgs/ComBuildersES/people)
 * [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json), de no estar -> [añadirla](https://github.com/ComBuildersES/communities-directory/issues)
-* [ ] Enviar un correo de bienvenida  (ver en la descripción de la tarjeta)
+* [ ] Enviar un correo de bienvenida  (ver más abajo)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
 * [ ] Asegurar que se acepta la invitación a GitHub
 
@@ -35,29 +35,27 @@ Buenas XXXX!,
 
 ¡Bienvenidx a la comunidad! Deberías haber recibido:
 
-* Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es) (puedes usarla para comunicarte con toda la comunidad). Si no has usado Google Groups antes, pueces ver [este vídeo](https://youtu.be/4V6mPZCVYwc).
+* Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es) (puedes usarla para comunicarte con toda la comunidad). Si no has usado Google Groups antes, puedes ver [este vídeo](https://youtu.be/4V6mPZCVYwc).
 * Una invitación a [la organización de GitHub](https://github.com/ComBuildersES). Para quienes no han usado GitHub antes, hemos creado [este otro vídeo](#) (*pending*).
-* A las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
+* Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
 
 Para terminar el proceso de alta te queríamos pedir que:
 
 1. Te des de alta en nuestro servidor de Discord si quieres participar en los encuentros mensuales: XXXXXXX (caduca en 7 días)
 1. Vayas a GitHub > [Your organizations](https://github.com/settings/organizations), y aceptes la invitación a [ComBuildersES](https://github.com/ComBuildersES).
 
-Y por último aprovechar invitarte a: 
-* Compartir más en detalle tu experiencia. Si te animas, [indícanoslo aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md). Más info en: [Charlamos con Community Builders](https://github.com/ComBuildersES/charlamos-con-community-builders/tree/main?tab=readme-ov-file#charlamos-con-community-builders)
-* Tener una llamada con [Álvaro/Raúl] y conmigo, para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas, ¿te parece?.
-
-Por último te dejo algunos enlaces con información relevante para que te familiarices con las iniciativas que marcaste que te interesaban: (borrar las que no apliquen)
-* **Networking y ayuda mutua**: échale un vistazo al [CONTRIBUTING.md de la iniciativa](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#c%C3%B3mo-contribuir) para saber cómo hacemos para vernos online y presencial, de qué temas se puede hablar, dónde, etc. **Nota**: es importante que si quieres unirte a las llamadas online, te unas a Discord.
-* **Compartir tu experiencia**: este [CONTRIBUTING.md](https://github.com/ComBuildersES/charlamos-con-community-builders/blob/main/CONTRIBUTING.md#en-qu%C3%A9-consiste) es muy cortito. Si quieres que grabemos tu experiencia [abre un issue aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md)
-* **Directorio de comunidades**: hay multitud de [issues abiertos](https://github.com/ComBuildersES/communities-directory/issues), pero si quieres una explicación más organizada, [revisa el CONTRIBUTING.md](https://github.com/ComBuildersES/communities-directory/blob/master/CONTRIBUTING.md#gu%C3%ADa-de-contribuci%C3%B3n).
-* **Web de community builders**: estamos en proceso de rehacer la web desde cero, le echas un vistazo a [los issues](https://github.com/ComBuildersES/ComBuildersES.github.io/issues)?
-* **Formatos de eventos**: estamos transicionando el proyecto a GitHub y nos viene genial la ayuda. Hay unas pocos [issues con tareas donde a lo mejor podrías ayudar](https://github.com/ComBuildersES/formatos-para-eventos/issues)
-* **Estudio público objetivo**: échale un vistazo a la [guía de contribución](https://github.com/ComBuildersES/estudio-publico-objetivo/blob/main/CONTRIBUTING.md#gu%C3%ADa-de-contribuci%C3%B3n) es cortita
-* **Recopilación de recursos**: contribuir a la awesome es sencillo, es como cualquier otra awesome. Las pocas convenciones que hay están en el [CONTRIBUTING.md](https://github.com/ComBuildersES/awesome-community-builders/blob/master/CONTRIBUTING.md) y en los issues [hay algunas preguntas](https://github.com/ComBuildersES/awesome-community-builders/issues)
+Te dejo algunos enlaces con información relevante para que te familiarices con las iniciativas que marcaste que te interesaban: (borrar las que no apliquen)
+* **[Networking y ayuda mutua](https://github.com/ComBuildersES/punto-de-encuentro#readme)**: échale un vistazo al [CONTRIBUTING.md de la iniciativa](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#c%C3%B3mo-contribuir) para saber cómo hacemos la comunicación síncrona y asíncrona (online & presencial), de qué temas hablamos, dónde, etc. **Nota**: es importante que si quieres unirte a las llamadas online, te unas a Discord.
+* **[Compartir tu experiencia](https://github.com/ComBuildersES/charlamos-con-community-builders)**: este [CONTRIBUTING.md](https://github.com/ComBuildersES/charlamos-con-community-builders/blob/main/CONTRIBUTING.md#en-qu%C3%A9-consiste) es muy cortito. Si quieres que grabemos tu experiencia [abre un issue aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md)
+* **[Directorio de comunidades](https://github.com/ComBuildersES/communities-directory#readme)**: hay multitud de [issues abiertos](https://github.com/ComBuildersES/communities-directory/issues), pero si quieres una explicación más organizada, [revisa el CONTRIBUTING.md](https://github.com/ComBuildersES/communities-directory/blob/master/CONTRIBUTING.md#gu%C3%ADa-de-contribuci%C3%B3n).
+* **[Web de community builders](https://github.com/ComBuildersES/ComBuildersES.github.io)**: estamos en proceso de rehacer la web desde cero, le echas un vistazo a [los issues](https://github.com/ComBuildersES/ComBuildersES.github.io/issues)?
+* **[Formatos de eventos](https://github.com/ComBuildersES/formatos-para-eventos#readme)**: estamos transicionando el proyecto a GitHub y nos viene genial la ayuda. Hay unas pocos [issues con tareas donde a lo mejor podrías ayudar](https://github.com/ComBuildersES/formatos-para-eventos/issues)
+* **[Estudio público objetivo](https://github.com/ComBuildersES/estudio-publico-objetivo)**: échale un vistazo a la [guía de contribución](https://github.com/ComBuildersES/estudio-publico-objetivo/blob/main/CONTRIBUTING.md#gu%C3%ADa-de-contribuci%C3%B3n) es cortita
+* **[Recopilación de recursos](https://github.com/ComBuildersES/awesome-community-builders)**: contribuir a la awesome es sencillo, es como cualquier otra awesome. Las pocas convenciones que hay están en el [CONTRIBUTING.md](https://github.com/ComBuildersES/awesome-community-builders/blob/master/CONTRIBUTING.md) y en los issues [hay algunas preguntas](https://github.com/ComBuildersES/awesome-community-builders/issues)
 
 Para más detalle, estamos preparando [una guía](https://github.com/ComBuildersES/gestion-interna/issues/18) donde queremos explicar todo lo necesario para saber cómo participar en la comunidad. 
+
+Y por último aprovechar invitarte a tener una llamada con [Álvaro/Raúl] y conmigo, para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas, ¿te parece?.
 
 Si tienes cualquier duda nos dices.
 
