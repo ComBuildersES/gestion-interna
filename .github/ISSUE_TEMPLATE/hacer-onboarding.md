@@ -14,7 +14,7 @@ assignees: ''
 * [ ] Enviar invitación a los encuentros [en Google Calendar](https://calendar.google.com/calendar/u/0/r)
 * [ ] Añadir a [la PPT con el listado de personas de la comunidad](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit)
 * [ ] Enviar la [invitación a la organización de GitHub](https://github.com/orgs/ComBuildersES/people)
-* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://docs.google.com/spreadsheets/d/18Rf0-3sREFosw__tQYaUmtzJNL3M-PLsm-HIqENf2Yw/edit?gid=0#gid=0)
+* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades]([https://docs.google.com/spreadsheets/d/18Rf0-3sREFosw__tQYaUmtzJNL3M-PLsm-HIqENf2Yw/edit?gid=0#gid=0](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json)), de no estar -> [añadirla]([url](https://github.com/ComBuildersES/communities-directory/issues))
 * [ ] Enviar un correo de bienvenida  (ver en la descripción de la tarjeta)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
 * [ ] Asegurar onboarding en Discord
