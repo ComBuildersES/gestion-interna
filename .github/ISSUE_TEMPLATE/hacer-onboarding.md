@@ -11,13 +11,17 @@ assignees: ''
 * [ ] Seguir y añadir al [Starter pack de Bluesky](https://bsky.app/starter-pack/communitybuilders.bsky.social/3lbw4mhnycx2w) (si aplica)
 * [ ] Seguir y añadir a la [Lista de X](https://x.com/i/lists/1861687729429303706) (si aplica)
 * [ ] Compartir la [carpeta pública de Drive](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y a la [restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq)
-* [ ] Enviar invitación a los encuentros [en Google Calendar](https://calendar.google.com/calendar/u/0/r)
 * [ ] Añadir a [la PPT con el listado de personas de la comunidad](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit)
 * [ ] Enviar la [invitación a la organización de GitHub](https://github.com/orgs/ComBuildersES/people)
-* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades]([https://docs.google.com/spreadsheets/d/18Rf0-3sREFosw__tQYaUmtzJNL3M-PLsm-HIqENf2Yw/edit?gid=0#gid=0](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json)), de no estar -> [añadirla]([url](https://github.com/ComBuildersES/communities-directory/issues))
+* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json), de no estar -> [añadirla](https://github.com/ComBuildersES/communities-directory/issues)
 * [ ] Enviar un correo de bienvenida  (ver en la descripción de la tarjeta)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
-* [ ] Asegurar onboarding en Discord
+* [ ] Asegurar que se acepta la invitación a GitHub
+
+* Tareas por proyecto:
+   * Punto de encuentro
+      * [ ] Enviar invitación a los encuentros [en Google Calendar](https://calendar.google.com/calendar/u/0/r)
+      * [ ] Asegurar onboarding en Discord
 
 ----
 
@@ -42,12 +46,23 @@ Para terminar el proceso de alta te queríamos pedir que:
 
 Y por último aprovechar invitarte a: 
 * Compartir más en detalle tu experiencia. Si te animas, [indícanoslo aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md). Más info en: [Charlamos con Community Builders](https://github.com/ComBuildersES/charlamos-con-community-builders/tree/main?tab=readme-ov-file#charlamos-con-community-builders)
-* [instrucciones relevantes en función de los intereses indicados en el formulario. Dar indicaciones concretas de cómo participar en las iniciativas, por ej: participar en hilos relacionados con sus intereses, etc]
 * Tener una llamada con [Álvaro/Raúl] y conmigo, para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas, ¿te parece?.
 
-Para más detalle puedes revises [esta guía](https://github.com/ComBuildersES/gestion-interna/issues/18) donde explicamos todo lo que debes saber para participar en la comunidad (*in progress*).
+Por último te dejo algunos enlaces con información relevante para que te familiarices con las iniciativas que marcaste que te interesaban: (borrar las que no apliquen)
+* **Networking y ayuda mutua**: échale un vistazo al [CONTRIBUTING.md de la iniciativa](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#c%C3%B3mo-contribuir) para saber cómo hacemos para vernos online y presencial, de qué temas se puede hablar, dónde, etc. **Nota**: es importante que si quieres unirte a las llamadas online, te unas a Discord.
+* **Compartir tu experiencia**: este [CONTRIBUTING.md](https://github.com/ComBuildersES/charlamos-con-community-builders/blob/main/CONTRIBUTING.md#en-qu%C3%A9-consiste) es muy cortito. Si quieres que grabemos tu experiencia [abre un issue aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md)
+* **Directorio de comunidades**: hay multitud de [issues abiertos](https://github.com/ComBuildersES/communities-directory/issues), pero si quieres una explicación más organizada, [revisa el CONTRIBUTING.md](https://github.com/ComBuildersES/communities-directory/blob/master/CONTRIBUTING.md#gu%C3%ADa-de-contribuci%C3%B3n).
+* **Web de community builders**: estamos en proceso de rehacer la web desde cero, le echas un vistazo a [los issues](https://github.com/ComBuildersES/ComBuildersES.github.io/issues)?
+* **Formatos de eventos**: estamos transicionando el proyecto a GitHub y nos viene genial la ayuda. Hay unas pocos [issues con tareas donde a lo mejor podrías ayudar](https://github.com/ComBuildersES/formatos-para-eventos/issues)
+* **Estudio público objetivo**: échale un vistazo a la [guía de contribución](https://github.com/ComBuildersES/estudio-publico-objetivo/blob/main/CONTRIBUTING.md#gu%C3%ADa-de-contribuci%C3%B3n) es cortita
+* **Recopilación de recursos**: contribuir a la awesome es sencillo, es como cualquier otra awesome. Las pocas convenciones que hay están en el [CONTRIBUTING.md](https://github.com/ComBuildersES/awesome-community-builders/blob/master/CONTRIBUTING.md) y en los issues [hay algunas preguntas](https://github.com/ComBuildersES/awesome-community-builders/issues)
+
+Para más detalle, estamos preparando [una guía](https://github.com/ComBuildersES/gestion-interna/issues/18) donde queremos explicar todo lo necesario para saber cómo participar en la comunidad. 
 
 Si tienes cualquier duda nos dices.
 
-Un abrazo!,
+¡Un abrazo y gracias por unirte!,
 XXXXXX
+
+-----
+
