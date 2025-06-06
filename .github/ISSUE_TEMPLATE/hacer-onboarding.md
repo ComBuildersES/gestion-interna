@@ -38,7 +38,7 @@ Buenas XXXX!,
 * Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
 * Una invitación a las convocatorias de [los encuentros online](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). (si aplica)
 
-Si tienes curiosidad por ver qué otras personas forman parte de Community Builders puedes echarle un vistazo a [esta PPT](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?usp=sharing), aunque en cada repositorio encontrarás cómo cada persona está participando y contribuyendo a las diferentes iniciativas.
+Si tienes curiosidad, en el fichero [CONTRIBUTORS.md](https://github.com/ComBuildersES/.github/blob/main/CONTRIBUTORS.md) podrás ver un resumen las personas que están participando en las diferentes iniciativas. O en [esta PPT](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?slide=id.g2e29525fa3a_0_136#slide=id.g2e29525fa3a_0_136) a todas las personas que hemos dado de alta (como a ti) desde que arrancamos.
 
 Para terminar el proceso de alta te queríamos pedir que:
 
