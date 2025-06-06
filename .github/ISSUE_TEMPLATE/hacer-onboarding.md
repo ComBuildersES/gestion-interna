@@ -27,8 +27,6 @@ assignees: ''
 
 > Poner a communitybuilders.es@gmail.com en CC
 
-> IMPORTANTE: HAY QUE CAMBIAR ESTE CORREO CON TODOS LOS CAMBIOS DE GITHUB
-
 > **Asunto:** ✅ Alta en Community Builders
 
 Buenas XXXX!,
@@ -38,6 +36,7 @@ Buenas XXXX!,
 * Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es) (puedes usarla para comunicarte con toda la comunidad). Si no has usado Google Groups antes, puedes ver [este vídeo](https://youtu.be/4V6mPZCVYwc).
 * Una invitación a [la organización de GitHub](https://github.com/ComBuildersES). Para quienes no han usado GitHub antes, hemos creado [este otro vídeo](#) (*pending*).
 * Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
+* Una invitación a las convocatorias de [los encuentros online](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). (si aplica)
 
 Si tienes curiosidad por ver qué otras personas forman parte de Community Builders puedes echarle un vistazo a [esta PPT](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?usp=sharing), aunque en cada repositorio encontrarás cómo cada persona está participando y contribuyendo a las diferentes iniciativas.
 
