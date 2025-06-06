@@ -39,6 +39,8 @@ Buenas XXXX!,
 * Una invitación a [la organización de GitHub](https://github.com/ComBuildersES). Para quienes no han usado GitHub antes, hemos creado [este otro vídeo](#) (*pending*).
 * Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
 
+Si tienes curiosidad por ver qué otras personas forman parte de Community Builders puedes echarle un vistazo a [esta PPT](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?usp=sharing), aunque en cada repositorio encontrarás cómo cada persona está participando y contribuyendo a las diferentes iniciativas.
+
 Para terminar el proceso de alta te queríamos pedir que:
 
 1. Te des de alta en nuestro servidor de Discord si quieres participar en los encuentros mensuales: XXXXXXX (caduca en 7 días)
