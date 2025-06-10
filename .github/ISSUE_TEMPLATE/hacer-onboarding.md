@@ -61,4 +61,5 @@ Si tienes cualquier duda nos dices.
 
 ¡Un abrazo y gracias por unirte!,
 XXXXXX
+
 P.D. si tienes feedback sobre el proceso de onboarding, la [web de community builders](https://combuilderses.github.io/)** o cualquier otra cosa que creas que podamos mejorar, también es bienvenido 😄.
