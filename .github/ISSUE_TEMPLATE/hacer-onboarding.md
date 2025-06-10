@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-* [ ] [Añadir a la lista de correo](https://groups.google.com/g/community-builders-es/members)
+* [ ] [Añadir a la lista de correo](https://groups.google.com/g/community-builders-es/members) (MSG: Buenas XXX!, este correo es para confirmar que ya estás dado de alta en Google Groups y puedes escribir a todo el mundo a través de community-builders-es@googlegroups.com)
 * [ ] Seguir y añadir al [Starter pack de Bluesky](https://bsky.app/starter-pack/communitybuilders.bsky.social/3lbw4mhnycx2w) (si aplica)
 * [ ] Seguir y añadir a la [Lista de X](https://x.com/i/lists/1861687729429303706) (si aplica)
 * [ ] Compartir la [carpeta pública de Drive](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y a la [restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq)
