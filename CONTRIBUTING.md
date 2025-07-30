@@ -79,6 +79,7 @@ En cualquier caso, se comunicará públicamente los motivos por los que se otorg
 	* Privilegio de administración del repositorio de la iniciativa.
 	* Poder usar los canales de la comunidad para comunicar los progresos de la iniciativa.
 	* Poder optar a formar parte del equipo de coordinación.
+
 #### 🧑‍🏫 Mentor
 
 * 🎯 **Objetivo**: Acompañar a líderes de iniciativas. Mentorizar a quienes lanzan nuevas ideas o proyectos, apoyar en los primeros pasos, definir objetivos y hacer seguimiento.
@@ -125,6 +126,7 @@ En cualquier caso, se comunicará públicamente los motivos por los que se otorg
 	* Crear el apartado "Agradecimientos" de 3 boletines mensuales.
 * 🎁 **Beneficios**:  
 	* Aparecer en [la web](https://combuilderses.github.io/) como "🥇 Thankifier".
+
 #### 🏓 Pinger
 
 * 🎯 **Objetivo**: Hacer un seguimiento de personas inactivas. Contactar a personas que llevan tiempo sin participar en la comunidad para entender motivos, detectar problemas o falta de encaje, y transmitir feedback al equipo de coordinación y PMCs si corresponde.
@@ -193,12 +195,15 @@ En cualquier caso, se comunicará públicamente los motivos por los que se otorg
 	* Aparecer en [la web](https://combuilderses.github.io/) como "⚒️ OpsMaster".
 
 ---
+
 ## Duración de los roles
 La duración de todos los roles, incluidos formar parte del equipo de coordinación, son revisados anualmente y renovables si se mantiene la actividad.
 
 La pérdida de un rol puede darse por la falta de actividad, pero también puede ser retirado por decisión unilateral del equipo de coordinación por incumplimiento de las normas de la comunidad u otros motivos justificados.
+
 ## Proyectos
-En ocasiones usamos los [proyectos de la organización](#) para agrupar tareas en hitos mayores.
+En ocasiones usamos los [proyectos de la organización](https://github.com/orgs/ComBuildersES/projects) para agrupar tareas en hitos mayores.
+
 ## Tareas
 
 Usamos [los issues de este repositorio](https://github.com/ComBuildersES/gestion-interna/issues) para definir tareas pendientes a realizar, pero también para debatir en torno a temas sobre los que hay que tomar decisiones.
