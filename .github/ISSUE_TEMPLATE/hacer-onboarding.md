@@ -17,6 +17,7 @@ assignees: ''
 * [ ] Enviar un correo de bienvenida  (ver más abajo)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
 * [ ] Asegurar que se acepta la invitación a GitHub
+* [ ] Añadir al [equipo de provincia](https://github.com/orgs/ComBuildersES/teams) correspondiente
 
 * Tareas por proyecto:
    * Punto de encuentro
