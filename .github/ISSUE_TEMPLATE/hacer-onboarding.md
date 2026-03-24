@@ -14,7 +14,7 @@ assignees: ''
 * [ ] Añadir a [la PPT con el listado de personas de la comunidad](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit)
 * [ ] Enviar la [invitación a la organización de GitHub](https://github.com/orgs/ComBuildersES/people)
   * [ ] Añadir al [equipo de provincia](https://github.com/orgs/ComBuildersES/teams) correspondiente y a "Builders"
-* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json), de no estar -> [añadirla](https://github.com/ComBuildersES/communities-directory/issues/new?template=community_entry.yml)
+* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json), de no estar -> [añadirla](https://combuilderses.github.io/communities-directory/?contribute=new)
    * [ ] Añadir [vinculación en el directorio de comunidades](https://github.com/ComBuildersES/communities-directory/blob/master/public/data/community-builders-members.json)
 * [ ] Enviar un correo de bienvenida  (ver más abajo)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
