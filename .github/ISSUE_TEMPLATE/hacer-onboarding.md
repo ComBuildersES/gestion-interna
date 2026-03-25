@@ -18,7 +18,7 @@ assignees: ''
    * [ ] Añadir [vinculación en el directorio de comunidades](https://github.com/ComBuildersES/communities-directory/blob/master/public/data/community-builders-members.json)
 * [ ] Enviar un correo de bienvenida  (ver más abajo)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
-* [ ] Asegurar que se acepta la invitación a GitHub
+* [ ] Asegurar que se [acepta la invitación a GitHub](https://github.com/orgs/ComBuildersES/people/pending_invitations)
 
 * Tareas por proyecto:
    * Punto de encuentro
