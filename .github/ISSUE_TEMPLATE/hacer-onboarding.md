@@ -38,7 +38,9 @@ Buenas XXXX!,
 * ✉️ **Lista de correo**: Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es). Te dejo info sobre: [Cómo nos comunicamos](https://github.com/ComBuildersES/.github/blob/main/COMMUNITY_GUIDE.md#c%C3%B3mo-nos-comunicamos). <br/> <small>Si no has usado Google Groups antes, puedes ver [este vídeo](https://youtu.be/4V6mPZCVYwc).<small>
 * 🐙 **GitHub**: Una invitación a [la organización de GitHub](https://github.com/ComBuildersES). Para quienes no han usado GitHub antes, hemos creado [este otro vídeo](#) (*pending*).
 * 🗂️ **Ficheros** : Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
-* 📅 **Convocatorias**: Una invitación a las convocatorias de [los encuentros online](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). Aunque [varias personas han tenido problemas](https://groups.google.com/g/community-builders-es/c/766enuD9aRg/m/rqnguijYAwAJ), así que **te recomendamos añadir [el ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics) a tu calendario**. Si necesitas ayuda, [aquí tienes instrucciones](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). (si aplica)
+* [Si aplica] 📅 **Convocatorias**: Una invitación a las convocatorias de [los encuentros online](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). Aunque [varias personas han tenido problemas](https://groups.google.com/g/community-builders-es/c/766enuD9aRg/m/rqnguijYAwAJ), así que **te recomendamos**
+   * **Añadir [el ICS](https://calendar.google.com/calendar/ical/f2f7ea80a4574348bf203e13678878ddbf8e5677b8e04f05b28e870745aa8b12%40group.calendar.google.com/public/basic.ics) a tu calendario**. Si necesitas ayuda, [aquí tienes instrucciones](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). 
+   * O suscribirte a los recordatorios a través del bot de Telegram: [@ComBuildersEsBot]([url](https://web.telegram.org/k/#@ComBuildersEsBot)). ([algo + de info sobre este bot aquí](https://github.com/ComBuildersES/punto-de-encuentro/issues/40#issuecomment-4162387610))
 
 Si tienes curiosidad, en el fichero [CONTRIBUTORS.md](https://github.com/ComBuildersES/.github/blob/main/CONTRIBUTORS.md) podrás ver un resumen de las personas que participan en las distintas iniciativas. O en [esta PPT](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?slide=id.g2e29525fa3a_0_136#slide=id.g2e29525fa3a_0_136) a todas las personas que hemos dado de alta (como a ti) desde que arrancamos.
 
@@ -63,9 +65,9 @@ Te dejo algunos enlaces con información relevante para que te familiarices con 
 
 Para más detalle, hemos preparado [una guía](https://github.com/ComBuildersES/.github/blob/main/COMMUNITY_GUIDE.md) que explica todo lo necesario para participar en la comunidad. 
 
-Y por último aprovechar invitarte a tener una llamada con [Álvaro/Raúl] y conmigo, para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas, ¿te parece?.
+Y por último, aprovecho para invitarte a tener una llamada con [Álvaro/Raúl] y conmigo, para darte la bienvenida, presentarnos, y resolver cualquier duda que tengas, ¿te parece?.
 
-Si tienes cualquier duda, nos dices.
+Si tienes alguna duda, nos dices.
 
 ¡Un abrazo y gracias por unirte!,
 XXXXXX
