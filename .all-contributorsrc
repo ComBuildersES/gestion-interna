@@ -1,0 +1,58 @@
+{
+  "projectName": "gestion-interna",
+  "projectOwner": "ComBuildersES",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [],
+  "types": {
+    "Impulsor":{
+      "symbol": "🚀",
+      "description": "Dinamiza iniciativa(s) que aporten valor a la comunidad",
+      "link": "[<%= symbol %>](<%= url %> \"Dinamiza iniciativa(s) que aporten valor a la comunidad.\")"
+    },
+    "Welcomer": {
+      "symbol": "👋",
+      "description": "Onboarding de nuevos miembros: Dar de alta a las personas en los sistemas, realizar una primera llamada de bienvenida, resolver dudas y orientar la participación inicial.",
+      "link": "[<%= symbol %>](<%= url %> \"Onboarding de nuevos miembros: Dar de alta a las personas en los sistemas, realizar una primera llamada de bienvenida, resolver dudas y orientar la participación inicial.\")"
+    },
+    "Ambassador": {
+      "symbol": "🗣️",
+      "description": "Embajador/a de la comunidad: Dar a conocer Community Builders en otros entornos, presentar la comunidad a posibles nuevas personas interesadas.",
+      "link": "[<%= symbol %>](<%= url %> \"Embajador/a de la comunidad: Dar a conocer Community Builders en otros entornos, presentar la comunidad a posibles nuevas personas interesadas.\")"
+    },
+    "Pinger": {
+      "symbol": "🏓",
+      "description": "Seguimiento de miembros inactivos: Contactar a personas que llevan tiempo sin participar para entender motivos, detectar problemas o falta de encaje, y buscar formas de volver a implicarles.",
+      "link": "[<%= symbol %>](<%= url %> \"Seguimiento de miembros inactivos: Contactar a personas que llevan tiempo sin participar para entender motivos, detectar problemas o falta de encaje, y buscar formas de volver a implicarles.\")"
+    },
+    "Thankifier": {
+      "symbol": "🙏",
+      "description": "Reconocimiento de contribuciones: Asegurarse de que las personas activas reciben visibilidad y agradecimiento por sus aportaciones (p. ej. en newsletters, reuniones, issues destacados, etc.).",
+      "link": "[<%= symbol %>](<%= url %> \"Reconocimiento de contribuciones: Asegurarse de que las personas activas reciben visibilidad y agradecimiento por sus aportaciones (p. ej. en newsletters, reuniones, issues destacados, etc.).\")"
+    },
+    "Broadcaster": {
+      "symbol": "📢",
+      "description": "Dinamizar las redes: Ayudar con la redacción y difusión de mensajes clave, mantenimiento de redes sociales, boletines o páginas públicas.",
+      "link": "[<%= symbol %>](<%= url %> \"Dinamizar las redes: Ayudar con la redacción y difusión de mensajes clave, mantenimiento de redes sociales, boletines o páginas públicas.\")"
+    },
+    "Mentor": {
+      "symbol": "🧑‍🏫",
+      "description": "Acompañar a líderes de iniciativas: Mentorizar a quienes quieren lanzar nuevas ideas o proyectos, apoyar en los primeros pasos, definir objetivos y hacer seguimiento.",
+      "link": "[<%= symbol %>](<%= url %> \"Acompañar a líderes de iniciativas: Mentorizar a quienes quieren lanzar nuevas ideas o proyectos, apoyar en los primeros pasos, definir objetivos y hacer seguimiento.\")"
+    },
+    "OpsMaster": {
+      "symbol": "⚒️",
+      "description": "Gestión de herramientas internas: Crear o mantener herramientas de soporte a la comunidad (e.g. scripts, automatización de puntos, gestión en GitHub, formularios).",
+      "link": "[<%= symbol %>](<%= url %> \"Gestión de herramientas internas: Crear o mantener herramientas de soporte a la comunidad (e.g. scripts, automatización de puntos, gestión en GitHub, formularios).\")"
+    },
+    "Admin": {
+      "symbol": "🧭",
+      "description": "Gobernanza y estrategia de la comunidad: Contribuir a definir y revisar la misión, visión, procesos internos, normas y documentación clave de la comunidad.",
+      "link": "[<%= symbol %>](<%= url %> \"Gobernanza y estrategia de la comunidad: Contribuir a definir y revisar la misión, visión, procesos internos, normas y documentación clave de la comunidad.\")"
+    }
+  }
+}
