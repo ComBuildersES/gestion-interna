@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-* [ ] [Añadir a la lista de correo](https://groups.google.com/g/community-builders-es/members) (MSG: Buenas XXX!, este correo es para confirmar que ya te hemos dado de alta en Google Groups y puedes escribir a todo el mundo a través de community-builders-es@googlegroups.com)
+* [ ] [Añadir a la lista de correo](https://groups.google.com/g/community-builders-es/members) (MSG: Buenas XXX!, este correo es para confirmar que ya te hemos dado de alta en Google Groups y puedes escribir a todo el mundo a través de community-builders-es@googlegroups.com). Te dejo un vídeo que hice (por si no lo has usado antes): https://youtu.be/4V6mPZCVYwc
 * [ ] Seguir y añadir al [Starter pack de Bluesky](https://bsky.app/starter-pack/communitybuilders.bsky.social/3lbw4mhnycx2w) (si aplica)
 * [ ] Seguir y añadir a la [Lista de X](https://x.com/i/lists/1861687729429303706) (si aplica)
 * [ ] Compartir la [carpeta pública de Drive](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y a la [restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq)
@@ -35,7 +35,7 @@ Buenas XXXX!,
 
 ¡Bienvenidx a la comunidad! Deberías haber recibido:
 
-* ✉️ **Lista de correo**: Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es). Te dejo info sobre: [Cómo nos comunicamos](https://github.com/ComBuildersES/.github/blob/main/COMMUNITY_GUIDE.md#c%C3%B3mo-nos-comunicamos). <br/> <small>Si no has usado Google Groups antes, puedes ver [este vídeo](https://youtu.be/4V6mPZCVYwc).<small>
+* ✉️ **Lista de correo**: Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es). Te dejo info sobre: [Cómo nos comunicamos](https://github.com/ComBuildersES/.github/blob/main/COMMUNITY_GUIDE.md#c%C3%B3mo-nos-comunicamos). 
 * 🐙 **GitHub**: Una invitación a [la organización de GitHub](https://github.com/ComBuildersES). Para quienes no han usado GitHub antes, hemos creado [este otro vídeo](#) (*pending*).
 * 🗂️ **Ficheros** : Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
 * [Si aplica] 📅 **Convocatorias**: Una invitación a las convocatorias de [los encuentros online](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales). Aunque [varias personas han tenido problemas](https://groups.google.com/g/community-builders-es/c/766enuD9aRg/m/rqnguijYAwAJ), así que **te recomendamos**
