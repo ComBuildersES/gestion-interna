@@ -48,7 +48,7 @@ Para terminar el proceso de alta, te pedimos que:
 
 1) Vayas a GitHub > [Your organizations](https://github.com/settings/organizations), y aceptes la invitación a [ComBuildersES](https://github.com/ComBuildersES).
 
-2) [Reserves un hueco en mi calendario](https://links.esri.com/bookings/rjo) o respondas a este correo para que busquemos fecha. Nos gustaría contarte lo que hacemos en la comunidad que te pueda interesar, además de presentarnos y resolver cualquier duda que tengas.
+2) [Reserves un hueco en mi calendario](https://links.esri.com/bookings/rjo), nos envíes tú un enlace (para reservarte nosotros), o respondas a este correo y buscamos un hueco para hacer una llamada y terminar de contarte ☺️. La experiencia nos dice que es mejor así para que no te explote la cabeza 🤯 de todo lo que hay 😂.
 
 3) Por último, sería genial si nos ayudases a revisar la información del [directorio de comunidades]([url](https://directory.communitybuilders.dev)) y que dinamizas tú. Para que la gente entienda mejor quiénes sois, qué hacéis, a quién os dirigís, y cómo pueden participar en vuestros eventos: XXX, XXX, ...
 
