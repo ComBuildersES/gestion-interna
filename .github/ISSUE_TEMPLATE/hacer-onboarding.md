@@ -14,15 +14,15 @@ assignees: ''
 * [ ] Añadir a [la PPT con el listado de personas de la comunidad](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit)
 * [ ] Enviar la [invitación a la organización de GitHub](https://github.com/orgs/ComBuildersES/people)
   * [ ] Añadir al [equipo de provincia](https://github.com/orgs/ComBuildersES/teams) correspondiente y a "Builders"
+  * [ ] Añadir [equipo de Conferencia](https://github.com/orgs/ComBuildersES/teams) (si aplica)
 * [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json), de no estar -> [añadirla](https://combuilderses.github.io/communities-directory/?contribute=new)
    * [ ] Añadir [vinculación en el directorio de comunidades](https://github.com/ComBuildersES/communities-directory/blob/master/public/data/community-builders-members.json)
-* [ ] Enviar un correo de bienvenida  (ver más abajo)
+* [ ] Enviar un correo de bienvenida o invitación a concretar una llamada para contarle (ver más abajo)
 * [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
 * [ ] Asegurar que se [acepta la invitación a GitHub](https://github.com/orgs/ComBuildersES/people/pending_invitations)
 
 * Tareas por proyecto:
    * Punto de encuentro
-      * [ ] Enviar invitación a los encuentros [en Google Calendar](https://calendar.google.com/calendar/u/0/r)
       * [ ] Asegurar onboarding en Discord
 
 ----
@@ -30,6 +30,44 @@ assignees: ''
 > Poner a communitybuilders.es@gmail.com en CC
 
 > **Asunto:** ✅ Alta en Community Builders
+
+
+## Opción A
+
+Buenas XXXX!,
+
+¡Bienvenid@ a la comunidad! Deberías haber recibido:
+
+-  ✉️ **Lista de correo**: Acceso a la [lista de correo](https://groups.google.com/u/1/g/community-builders-es).
+-  🐙 **GitHub**: Una invitación a [la organización de GitHub](https://github.com/ComBuildersES).
+-  🗂️ **Ficheros**: Acceso a las carpetas compartidas de Drive: [la pública](https://drive.google.com/drive/folders/1Vz18KJ_o86fOlNAgbN6FLV-JCRp7RsNY) y [la restringida](https://drive.google.com/drive/folders/1EHA-vawXJonyrOhyoz1EzvYsFE_RzfUq).
+
+**TERMINAR EL PROCESO DE ALTA (te toca a ti)**
+
+Para terminar el proceso de alta, te pedimos que:
+
+1) Vayas a GitHub > [Your organizations](https://github.com/settings/organizations), y aceptes la invitación a [ComBuildersES](https://github.com/ComBuildersES).
+
+2) [Reserves un hueco en mi calendario](https://links.esri.com/bookings/rjo) o respondas al correo, para contarte las cosas que hacemos en la comunidad y que te puedan interesar, además de conocernos y resolver cualquier duda que tengas.
+
+3) Sería genial si nos ayudases a revisar la información que hay en el directorio de comunidades de las que dinamizas tú. Para que la gente entienda mejor quiénes sois, qué hacéis, a quién os dirigís, y cómo pueden participar en vuestros eventos: XXX, XXX, ...
+
+**SOBRE LOS ENCUENTROS ONLINE DE NETWORKING DE COMMUNITY BUILDERS**
+
+Para las no perderte las 📅 convocatorias de [los encuentros online](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#encuentros-online-mensuales) lo mejor es suscribirse:
+* [Vía ICS](https://www.google.com/calendar/render?cid=webcal://communitybuilders.dev/events/feed.ics).
+* Suscribirte a los recordatorios a través del bot de Telegram: [@ComBuildersEsBot](http://t.me/ComBuildersEsBot). ([algo + de info sobre este bot aquí](https://github.com/ComBuildersES/punto-de-encuentro/issues/40#issuecomment-4162387610)).
+
+Los encuentros mensuales los hacemos a través de: [Jitsi](https://meet.jit.si/CommunityBuildersES)
+
+Si quieres, puedes echarle un vistazo [a esta PPT para hacerte una idea quién hay en la comunidad, sus intereses, etc](https://docs.google.com/presentation/d/1ResYtqrRDQIEJwsloYyW5NH1FRQJIwSqAJeuplY3bno/edit?slide=id.g2e29525fa3a_0_136#slide=id.g2e29525fa3a_0_136).
+
+¡Un abrazo y gracias por unirte!,  
+Raúl & Álvaro
+
+----
+
+## Opcion B
 
 Buenas XXXX!,
 
