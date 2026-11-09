@@ -15,15 +15,11 @@ assignees: ''
 * [ ] Enviar la [invitación a la organización de GitHub](https://github.com/orgs/ComBuildersES/people)
   * [ ] Añadir al [equipo de provincia](https://github.com/orgs/ComBuildersES/teams) correspondiente y a "Builders"
   * [ ] Añadir [equipo de Conferencia](https://github.com/orgs/ComBuildersES/teams) (si aplica)
-* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://raw.githubusercontent.com/ComBuildersES/communities-directory/refs/heads/master/public/data/communities.json), de no estar -> [añadirla](https://combuilderses.github.io/communities-directory/?contribute=new)
+* [ ] Revisar que su(s) comunidad(es) están en el [listado de comunidades](https://directory.communitybuilders.dev/data/communities.json), de no estar -> [añadirla](https://combuilderses.github.io/communities-directory/?contribute=new)
    * [ ] Añadir [vinculación en el directorio de comunidades](https://github.com/ComBuildersES/communities-directory/blob/master/public/data/community-builders-members.json)
 * [ ] Enviar un correo de bienvenida o invitación a concretar una llamada para contarle (ver más abajo)
-* [ ] Enviar correo a la lista para dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts))
+* [ ] Dar la bienvenida públicamente ([hilo](https://groups.google.com/u/1/g/community-builders-es/c/fHl6f6NbVts)) & compartir ficha en el Grupo de Telegram
 * [ ] Asegurar que se [acepta la invitación a GitHub](https://github.com/orgs/ComBuildersES/people/pending_invitations)
-
-* Tareas por proyecto:
-   * Punto de encuentro
-      * [ ] Asegurar onboarding en Discord
 
 ----
 
@@ -84,12 +80,11 @@ Si tienes curiosidad, en el fichero [CONTRIBUTORS.md](https://github.com/ComBuil
 
 Para terminar el proceso de alta te queríamos pedir que:
 
-1. Te des de alta en nuestro servidor de Discord para poder participar en los encuentros mensuales: XXXXXXX (caduca en 7 días)
 1. Vayas a GitHub > [Your organizations](https://github.com/settings/organizations), y aceptes la invitación a [ComBuildersES](https://github.com/ComBuildersES).
 
 Te dejo algunos enlaces con información relevante para que te familiarices con las iniciativas que marcaste que te interesaban: (borrar las que no apliquen)
 
-* **[Networking y ayuda mutua](https://github.com/ComBuildersES/punto-de-encuentro#readme)**: échale un vistazo al [CONTRIBUTING.md de la iniciativa](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#c%C3%B3mo-contribuir) para saber cómo hacemos la comunicación síncrona y asíncrona (online & presencial), de qué temas hablamos, dónde, etc. **Nota**: perdona que insista, pero es importante que si quieres unirte a las llamadas online, te unas a Discord ☺️ (que más de una persona se ha quedado fuera por eso).
+* **[Networking y ayuda mutua](https://github.com/ComBuildersES/punto-de-encuentro#readme)**: échale un vistazo al [CONTRIBUTING.md de la iniciativa](https://github.com/ComBuildersES/punto-de-encuentro/blob/main/CONTRIBUTING.md#c%C3%B3mo-contribuir) para saber cómo hacemos la comunicación síncrona y asíncrona (online & presencial), de qué temas hablamos, dónde, etc. 
 
 * **[Compartir tu experiencia](https://github.com/ComBuildersES/charlamos-con-community-builders)**: este [CONTRIBUTING.md](https://github.com/ComBuildersES/charlamos-con-community-builders/blob/main/CONTRIBUTING.md#en-qu%C3%A9-consiste) es muy cortito. Si quieres que grabemos tu experiencia, [abre un issue aquí](https://github.com/ComBuildersES/charlamos-con-community-builders/issues/new?template=quiero-compartir-mi-experiencia.md).
 
